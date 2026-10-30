@@ -38,7 +38,7 @@ Site institucional desenvolvido para apresentar os serviços da Atech Solutions,
 
 > Substitua `SEU-USUARIO` pelo seu nome de usuário do GitHub.
 
-[Ver repositório](https://github.com/arthurtd301-pilha/atech-solutions) · [Abrir site]((https://atechsolutionss.netlify.app/))
+[Ver repositório](https://github.com/arthurtd301-pilha/atech-solutions) · [Abrir site](https://atechsolutionss.netlify.app/))
 
 ---
 
