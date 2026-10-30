@@ -38,7 +38,7 @@ Site institucional desenvolvido para apresentar os serviços da Atech Solutions,
 
 > Substitua `SEU-USUARIO` pelo seu nome de usuário do GitHub.
 
-[Ver repositório](https://github.com/SEU-USUARIO/atech-solutions) · [Abrir site](https://Fabioarthurgomes.github.io/atech-solutions/)
+[Ver repositório](https://github.com/SEU-USUARIO/atech-solutions) · [Abrir site](https://arthurtd301-pilha.github.io/atech-solutions/)
 
 ---
 
