@@ -38,7 +38,7 @@ Site institucional desenvolvido para apresentar os serviços da Atech Solutions,
 
 > Substitua `SEU-USUARIO` pelo seu nome de usuário do GitHub.
 
-[Ver repositório](https://github.com/SEU-USUARIO/atech-solutions) · [Abrir site](https://arthurtd301-pilha.github.io/atech-solutions/)
+[Ver repositório](https://github.com/arthurtd301-pilha/atech-solutions) · [Abrir site]((https://atechsolutionss.netlify.app/))
 
 ---
 
@@ -58,7 +58,7 @@ Catálogo digital desenvolvido para apresentar produtos, facilitar a montagem de
 
 > Substitua `SEU-USUARIO` pelo seu nome de usuário do GitHub.
 
-[Ver repositório](https://github.com/SEU-USUARIO/whiskey-house-073) · [Abrir projeto real](https://whiskeyhouse073.com.br/)
+[Ver repositório](https://github.com/arthurtd301-pilha/whiskey-house-073) · [Abrir projeto real](https://whiskeyhouse073.com.br/)
 
 ## Tecnologias e competências
 
